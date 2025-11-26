@@ -1,0 +1,296 @@
+=== HAMLET SIMULATION LOG ===
+
+Turn 1: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 1: Horatio defend -> Hamlet - Horatio defends Hamlet
+Turn 1: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 1: Laertes talk_to -> Ophelia - Laertes speaks with Ophelia
+Turn 1: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
+Turn 1: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 1: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 2: Laertes attack -> Hamlet - Laertes attacks Hamlet
+Turn 2: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 2: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 2: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 2: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 2: Horatio talk_to -> Laertes - Horatio speaks with Laertes
+Turn 2: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 3: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 3: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 3: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 3: Horatio spy_on -> Claudius - Horatio spies on Claudius
+Turn 3: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 3: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 3: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 4: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 4: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 4: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 4: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 4: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 4: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 4: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 5: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 5: Laertes talk_to -> Hamlet - Laertes speaks with Hamlet
+Turn 5: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 5: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 5: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 5: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 5: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 6: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 6: Laertes accuse -> Hamlet - Laertes accuses Hamlet
+Turn 6: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 6: Ophelia hide - Ophelia hides from view
+Turn 6: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 6: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 6: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 7: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 7: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 7: Horatio talk_to -> Ophelia - Horatio speaks with Ophelia
+Turn 7: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 7: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 7: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 7: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 8: Laertes talk_to -> Claudius - Laertes speaks with Claudius
+Turn 8: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 8: Horatio defend -> Hamlet - Horatio defends Hamlet
+Turn 8: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 8: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 8: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 8: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 9: Laertes talk_to -> Claudius - Laertes speaks with Claudius
+Turn 9: Polonius talk_to -> Laertes - Polonius speaks with Laertes
+Turn 9: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 9: Horatio talk_to -> Laertes - Horatio speaks with Laertes
+Turn 9: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 9: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 9: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 10: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 10: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 10: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 10: Polonius talk_to -> Horatio - Polonius speaks with Horatio
+Turn 10: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 10: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 10: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 11: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 11: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 11: Polonius talk_to -> Hamlet - Polonius speaks with Hamlet
+Turn 11: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 11: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 11: Laertes talk_to -> Polonius - Laertes speaks with Polonius
+Turn 11: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 12: Horatio defend -> Hamlet - Horatio defends Hamlet
+Turn 12: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 12: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 12: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 12: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 12: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 12: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 13: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 13: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 13: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 13: Polonius talk_to -> Ophelia - Polonius speaks with Ophelia
+Turn 13: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 13: Laertes talk_to -> Gertrude - Laertes speaks with Gertrude
+Turn 13: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 14: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 14: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 14: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 14: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 14: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 14: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
+Turn 14: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 15: Horatio talk_to -> Gertrude - Horatio speaks with Gertrude
+Turn 15: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 15: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 15: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 15: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 15: Laertes talk_to -> Ophelia - Laertes speaks with Ophelia
+Turn 15: Polonius talk_to -> Ophelia - Polonius speaks with Ophelia
+Turn 16: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 16: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 16: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 16: Horatio talk_to -> Gertrude - Horatio speaks with Gertrude
+Turn 16: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 16: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 16: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 17: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 17: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 17: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 17: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 17: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 17: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 17: Laertes talk_to -> Ophelia - Laertes speaks with Ophelia
+Turn 18: Laertes talk_to -> Claudius - Laertes speaks with Claudius
+Turn 18: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
+Turn 18: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 18: Horatio defend -> Hamlet - Horatio defends Hamlet
+Turn 18: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 18: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 18: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 19: Ophelia hide - Ophelia hides from view
+Turn 19: Laertes talk_to -> Claudius - Laertes speaks with Claudius
+Turn 19: Claudius scheme -> Hamlet - Claudius schemes against Hamlet
+Turn 19: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 19: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 19: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 19: Horatio talk_to -> Gertrude - Horatio speaks with Gertrude
+Turn 20: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 20: Laertes talk_to -> Polonius - Laertes speaks with Polonius
+Turn 20: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 20: Horatio talk_to -> Polonius - Horatio speaks with Polonius
+Turn 20: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 20: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 20: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 21: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 21: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 21: Polonius spy_on -> Laertes - Polonius spies on Laertes
+Turn 21: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 21: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 21: Laertes talk_to -> Hamlet - Laertes speaks with Hamlet
+Turn 21: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 22: Laertes talk_to -> Hamlet - Laertes speaks with Hamlet
+Turn 22: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 22: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 22: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 22: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 22: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 22: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 23: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 23: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 23: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 23: Polonius talk_to -> Ophelia - Polonius speaks with Ophelia
+Turn 23: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 23: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 23: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 24: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 24: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 24: Ophelia hide - Ophelia hides from view
+Turn 24: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 24: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 24: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 24: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 25: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 25: Laertes talk_to -> Claudius - Laertes speaks with Claudius
+Turn 25: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 25: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 25: Ophelia talk_to -> Gertrude - Ophelia speaks with Gertrude
+Turn 25: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 25: Horatio spy_on -> Claudius - Horatio spies on Claudius
+Turn 26: Claudius scheme -> Hamlet - Claudius schemes against Hamlet
+Turn 26: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 26: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 26: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 26: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 26: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 26: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 27: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 27: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 27: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 27: Laertes talk_to -> Hamlet - Laertes speaks with Hamlet
+Turn 27: Horatio talk_to -> Ophelia - Horatio speaks with Ophelia
+Turn 27: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
+Turn 27: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 28: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 28: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 28: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 28: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 28: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 28: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 28: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 29: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 29: Polonius talk_to -> Laertes - Polonius speaks with Laertes
+Turn 29: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 29: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 29: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 29: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
+Turn 29: Laertes talk_to -> Ophelia - Laertes speaks with Ophelia
+Turn 30: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 30: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 30: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 30: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 30: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 30: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 30: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 31: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 31: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 31: Claudius scheme -> Hamlet - Claudius schemes against Hamlet
+Turn 31: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 31: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 31: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 31: Horatio talk_to -> Ophelia - Horatio speaks with Ophelia
+Turn 32: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 32: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 32: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 32: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 32: Claudius scheme -> Hamlet - Claudius schemes against Hamlet
+Turn 32: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 32: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
+Turn 33: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 33: Horatio spy_on -> Claudius - Horatio spies on Claudius
+Turn 33: Polonius talk_to -> Ophelia - Polonius speaks with Ophelia
+Turn 33: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 33: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 33: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
+Turn 33: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 34: Ophelia hide - Ophelia hides from view
+Turn 34: Laertes talk_to -> Ophelia - Laertes speaks with Ophelia
+Turn 34: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 34: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 34: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 34: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 34: Horatio talk_to -> Gertrude - Horatio speaks with Gertrude
+Turn 35: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 35: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 35: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 35: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 35: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 35: Horatio spy_on -> Claudius - Horatio spies on Claudius
+Turn 35: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 36: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 36: Claudius scheme -> Hamlet - Claudius schemes against Hamlet
+Turn 36: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 36: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
+Turn 36: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 36: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 36: Laertes talk_to -> Hamlet - Laertes speaks with Hamlet
+Turn 37: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 37: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 37: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 37: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 37: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 37: Claudius scheme -> Hamlet - Claudius schemes against Hamlet
+Turn 37: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 38: Laertes talk_to -> Hamlet - Laertes speaks with Hamlet
+Turn 38: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 38: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 38: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 38: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 38: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 38: Horatio defend -> Hamlet - Horatio defends Hamlet
+Turn 39: Laertes talk_to -> Gertrude - Laertes speaks with Gertrude
+Turn 39: Ophelia talk_to -> Polonius - Ophelia speaks with Polonius
+Turn 39: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 39: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 39: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 39: Horatio defend -> Hamlet - Horatio defends Hamlet
+Turn 39: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 40: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 40: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 40: Ophelia talk_to -> Laertes - Ophelia speaks with Laertes
+Turn 40: Polonius spy_on -> Hamlet - Polonius spies on Hamlet
+Turn 40: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 40: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 40: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 41: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 41: Polonius talk_to -> Claudius - Polonius speaks with Claudius
+Turn 41: Claudius spy_on -> Hamlet - Claudius spies on Hamlet
+Turn 41: Gertrude talk_to -> Claudius - Gertrude speaks with Claudius
+Turn 41: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 41: Ophelia talk_to -> Claudius - Ophelia speaks with Claudius
+Turn 41: Hamlet accuse -> Claudius - Hamlet accuses Claudius
+Turn 42: Horatio talk_to -> Hamlet - Horatio speaks with Hamlet
+Turn 42: Claudius attack -> Hamlet - Claudius attacks Hamlet
+Turn 42: Gertrude talk_to -> Hamlet - Gertrude speaks with Hamlet
+Turn 42: Laertes defend -> Ophelia - Laertes defends Ophelia
+Turn 42: Polonius talk_to -> Ophelia - Polonius speaks with Ophelia
+Turn 42: Hamlet spy_on -> Claudius - Hamlet spies on Claudius
+Turn 42: Ophelia talk_to -> Hamlet - Ophelia speaks with Hamlet
