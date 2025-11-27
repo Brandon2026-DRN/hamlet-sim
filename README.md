@@ -40,6 +40,9 @@ To run the command-line interface:
 ```bash
 python3 main.py
 ```
+## Or use the Render application!
+
+https://hamlet-sim.onrender.com/
 
 ## Features
 
