@@ -2,45 +2,7 @@
 
 A multi-agent simulation game based on Shakespeare's Hamlet, where characters act autonomously based on their personalities.
 
-## Setup
-
-### Install Dependencies
-
-```bash
-# Option 1: Install with --user flag (recommended)
-pip3 install --user Flask
-
-# Option 2: Use a virtual environment (best practice)
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install Flask
-```
-
-## Running the Web Interface
-
-To run the web-based interface on port 8001:
-
-```bash
-python3 web_main.py
-```
-
-Or specify a different port:
-
-```bash
-python3 web_main.py 8080
-```
-
-Then open your browser and navigate to:
-- **http://localhost:8001** (or your specified port)
-
-## Running the CLI Interface
-
-To run the command-line interface:
-
-```bash
-python3 main.py
-```
-## Or use the Render application!
+## use the Render application!
 
 https://hamlet-sim.onrender.com/
 
