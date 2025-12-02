@@ -1,6 +1,6 @@
 """Web-based UI for the Hamlet simulation using Flask."""
 
-from flask import Flask, render_template, jsonify, request
+from flask import Flask, render_template, jsonify, request, send_from_directory
 from typing import List, Optional
 from ..agents.base_agent import BaseAgent
 from ..world.world_state import WorldState
@@ -8,6 +8,7 @@ from ..events.event_log import EventLog
 from ..simulation.simulation_loop import SimulationLoop
 import threading
 import time
+import os
 
 
 class WebUI:
@@ -39,6 +40,12 @@ class WebUI:
         def index():
             """Main page."""
             return render_template('index.html')
+        
+        @self.app.route('/media/medieval')
+        def medieval_music():
+            """Serve background music file for the web UI."""
+            base_dir = os.path.dirname(os.path.dirname(self.app.root_path))
+            return send_from_directory(base_dir, 'MEDIEVAL.mp3')
         
         @self.app.route('/api/state')
         def get_state():

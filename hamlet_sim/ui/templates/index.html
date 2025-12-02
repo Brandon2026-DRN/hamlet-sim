@@ -249,6 +249,7 @@
         <header>
             <h1>🎭 Hamlet Simulation Game</h1>
             <p class="subtitle">A multi-agent simulation based on Shakespeare's Hamlet</p>
+            <audio id="bg-music" src="/media/medieval" autoplay loop></audio>
         </header>
         
         <div class="controls">
@@ -297,6 +298,15 @@
         let isAutoRunning = false;
         const REFRESH_INTERVAL_SLOW = 1000; // 1 second when not auto-running
         const REFRESH_INTERVAL_FAST = 300; // 0.3 seconds when auto-running
+        
+        const bgMusic = document.getElementById('bg-music');
+        if (bgMusic) {
+            bgMusic.volume = 0.3;
+            document.addEventListener('click', function initMusic() {
+                bgMusic.play().catch(() => {});
+                document.removeEventListener('click', initMusic);
+            });
+        }
         
         async function fetchState() {
             try {
